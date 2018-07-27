@@ -1,0 +1,3 @@
+census|select * from census|manoj
+tb1|select * from census|manoj
+tb2|select * from census|manoj
